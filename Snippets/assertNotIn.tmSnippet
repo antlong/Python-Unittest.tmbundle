@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertNotIn(${1:member}, ${2:container}${3/.+/, msg=/}$3)
+${0}</string>
+	<key>name</key>
+	<string>assertNotIn</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>ani</string>
+	<key>uuid</key>
+	<string>B6283E3D-6BEC-4F64-A2E1-26BB7D0D7E12</string>
+</dict>
+</plist>

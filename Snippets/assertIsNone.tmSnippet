@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertIsNone(${1:obj}${2/.+/, msg=/}$2)
+${0}</string>
+	<key>name</key>
+	<string>assertIsNone</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>aisn</string>
+	<key>uuid</key>
+	<string>AB6EE1C1-54C8-4434-9566-DB007D488515</string>
+</dict>
+</plist>

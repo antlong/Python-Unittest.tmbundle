@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertSequenceEqual(${1:a}, ${2:b}${3/.+/, msg=/}$3)
+$0</string>
+	<key>name</key>
+	<string>assertSequenceEqual</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>ase</string>
+	<key>uuid</key>
+	<string>04161A60-7E34-4E67-8E5A-7A0915F5FA7D</string>
+</dict>
+</plist>

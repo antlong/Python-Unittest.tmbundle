@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertAlmostEqual(${1:first}, ${2:second}${3/.+/, /}$3${4/.+/, /}$4${5/.+/, /}$5)
+</string>
+	<key>name</key>
+	<string>assertAlmostEqual</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>aae</string>
+	<key>uuid</key>
+	<string>057A8D3A-C8FC-43A7-A03D-3CD82BB3E1B9</string>
+</dict>
+</plist>

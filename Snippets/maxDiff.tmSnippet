@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.maxDiff
+${0}</string>
+	<key>name</key>
+	<string>maxDiff</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>md</string>
+	<key>uuid</key>
+	<string>F19DFBC7-10FD-4758-8F35-CB5171BD9632</string>
+</dict>
+</plist>

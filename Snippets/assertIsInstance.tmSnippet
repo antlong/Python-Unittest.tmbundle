@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertIsInstance(${1:obj}, ${2:cls}${3/.+/, msg=/}$3)
+${0}</string>
+	<key>name</key>
+	<string>assertIsInstance</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>aisi</string>
+	<key>uuid</key>
+	<string>F3740DB5-301A-46D4-8A7F-3EB534062DDC</string>
+</dict>
+</plist>

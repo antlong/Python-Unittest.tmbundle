@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertTupleEqual(${1:tuple_1}, ${2:tuple_2}${3/.+/, msg=/}$3)
+$0</string>
+	<key>name</key>
+	<string>assertTupleEqual</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>ate</string>
+	<key>uuid</key>
+	<string>30341E64-15FB-425E-A1C6-408BCA46886C</string>
+</dict>
+</plist>

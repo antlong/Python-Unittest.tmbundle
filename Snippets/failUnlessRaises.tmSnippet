@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.failUnlessRaises(${1/.+/*args=/}$1${2/.+/, *kwargs=/}$2)
+${0}</string>
+	<key>name</key>
+	<string>failUnlessRaises</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>fur</string>
+	<key>uuid</key>
+	<string>0529B303-56E4-4828-B521-80E854A25542</string>
+</dict>
+</plist>

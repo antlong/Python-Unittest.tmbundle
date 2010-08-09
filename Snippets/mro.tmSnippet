@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.mro()
+${0}</string>
+	<key>name</key>
+	<string>mro</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>mro</string>
+	<key>uuid</key>
+	<string>5FC93CA4-38C5-490C-A774-99274EC57F29</string>
+</dict>
+</plist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertDictContainsSubset(${1:dict1}, ${2:dict2}${3/.+/, msg=/}$3)
+$0</string>
+	<key>name</key>
+	<string>assertDictEqual</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>ade</string>
+	<key>uuid</key>
+	<string>4612FDCB-E0BD-476C-8A85-5360D704FF33</string>
+</dict>
+</plist>

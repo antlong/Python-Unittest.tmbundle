@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertRegexpMatches(${1:text}, ${2:exp_regex}${3/.+/, msg=/}$3)
+$0</string>
+	<key>name</key>
+	<string>assertRegexpMatches</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>arm</string>
+	<key>uuid</key>
+	<string>45C5C5C4-A515-4BF4-802B-E81069E5D9D3</string>
+</dict>
+</plist>

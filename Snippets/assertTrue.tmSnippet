@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertTrue(${1:expr}${2/.+/, msg=/}$2)
+$0</string>
+	<key>name</key>
+	<string>assertTrue</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>at</string>
+	<key>uuid</key>
+	<string>F89624FB-957F-4895-B604-4375AE9AE0A5</string>
+</dict>
+</plist>

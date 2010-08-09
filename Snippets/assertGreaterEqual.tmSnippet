@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.assertGreaterEqual(${1:a}, ${2:b}${3/.+/, msg=/}$3)
+${0}</string>
+	<key>name</key>
+	<string>assertGreaterEqual</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>age</string>
+	<key>uuid</key>
+	<string>7032C80F-93F1-45DA-A972-81A8C160B5D5</string>
+</dict>
+</plist>

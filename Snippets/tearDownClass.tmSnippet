@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.tearDownClass(${1:class})
+${0}</string>
+	<key>name</key>
+	<string>tearDownClass</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>tdc</string>
+	<key>uuid</key>
+	<string>ECF304D0-B46D-4BE3-9E57-558E9265BDFB</string>
+</dict>
+</plist>

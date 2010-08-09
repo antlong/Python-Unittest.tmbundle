@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>self.countTestCases()
+${0}</string>
+	<key>name</key>
+	<string>countTestCases</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>ctt</string>
+	<key>uuid</key>
+	<string>4DB55605-B6FF-4BAC-9718-7D496B794AB2</string>
+</dict>
+</plist>
