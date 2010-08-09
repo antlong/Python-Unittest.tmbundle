@@ -14,11 +14,22 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>1A46E110-85B6-4C66-BA7E-4E655AF3EB44</string>
+				</array>
+				<key>name</key>
+				<string>Commands</string>
+			</dict>
+			<key>EE43B500-BFA2-4DDC-B2EF-700E9D715B09</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>8970375C-102D-47CF-82A9-DC51DF3C1A5F</string>
 					<string>29A68643-C03A-4E35-A0EF-9BFA685D300E</string>
 					<string>057A8D3A-C8FC-43A7-A03D-3CD82BB3E1B9</string>
 					<string>1DF76DCE-04C1-482F-B537-02A4888813B2</string>
 					<string>30A6AE47-A95E-4F33-BB17-49279B60D40E</string>
 					<string>4612FDCB-E0BD-476C-8A85-5360D704FF33</string>
+					<string>190010F6-A759-44C1-A994-479847B23A97</string>
 					<string>582E50D6-CF36-41AD-ABD1-6A0825DB51BA</string>
 					<string>304976BA-388F-414A-9280-10903610DA20</string>
 					<string>552E536C-27BB-41EC-A372-884D2B3AE758</string>
@@ -36,16 +47,19 @@
 					<string>590D6281-5964-457A-861E-8193D7482F22</string>
 					<string>C70A3A2B-D858-4BF0-ABEE-2D84EF0AA342</string>
 					<string>DCA4E1C1-BA19-4726-964D-5AB0DC18F8B6</string>
+					<string>6A34B01B-9250-43AF-8563-8E47FABA6E77</string>
 					<string>C75FDC1E-FE0C-4EC6-A7ED-6160C30865BF</string>
 					<string>B6283E3D-6BEC-4F64-A2E1-26BB7D0D7E12</string>
 					<string>8058D165-E343-498B-AC3F-2C895BB31C79</string>
 					<string>437149FA-9507-4C37-A6C7-E36A56DF2218</string>
+					<string>D07F50BE-9DC8-4F76-96FB-88DD69E3F3C1</string>
 					<string>FEEA78E4-2385-4576-AEBD-41792482D0B6</string>
 					<string>45C5C5C4-A515-4BF4-802B-E81069E5D9D3</string>
 					<string>04161A60-7E34-4E67-8E5A-7A0915F5FA7D</string>
 					<string>2CF0EC1A-12FD-489E-B06F-17A88138BBCF</string>
 					<string>30341E64-15FB-425E-A1C6-408BCA46886C</string>
 					<string>F89624FB-957F-4895-B604-4375AE9AE0A5</string>
+					<string>AD5B91E1-7DF0-4E4C-B794-591640FAFD08</string>
 					<string>4DB55605-B6FF-4BAC-9718-7D496B794AB2</string>
 					<string>32BEFA4D-B29B-4E18-8C24-E56F6A2E767B</string>
 					<string>4CB3CA23-4C3E-4CDE-B5D8-95B4C61C2D98</string>
@@ -70,27 +84,15 @@
 					<string>A9BD2637-C821-429C-AA97-C499BE2966F6</string>
 					<string>6F260EEE-7743-4425-853F-8E386511425E</string>
 					<string>ECF304D0-B46D-4BE3-9E57-558E9265BDFB</string>
-					<string>8970375C-102D-47CF-82A9-DC51DF3C1A5F</string>
-					<string>AD5B91E1-7DF0-4E4C-B794-591640FAFD08</string>
-					<string>6A34B01B-9250-43AF-8563-8E47FABA6E77</string>
-					<string>D07F50BE-9DC8-4F76-96FB-88DD69E3F3C1</string>
-					<string>190010F6-A759-44C1-A994-479847B23A97</string>
 				</array>
 				<key>name</key>
-				<string>TestCase</string>
-			</dict>
-			<key>6082939F-F76A-49D4-8CB9-865A24382DDC</key>
-			<dict>
-				<key>items</key>
-				<array/>
-				<key>name</key>
-				<string>BaseTestSuite</string>
+				<string>Functions</string>
 			</dict>
 			<key>FFDB3806-D1F2-466C-8614-55BAB0B0DC81</key>
 			<dict>
 				<key>items</key>
 				<array>
-					<string>6082939F-F76A-49D4-8CB9-865A24382DDC</string>
+					<string>EE43B500-BFA2-4DDC-B2EF-700E9D715B09</string>
 					<string>10CA52B0-23AE-408F-ABE3-9AB5AFDEFC47</string>
 				</array>
 				<key>name</key>
@@ -102,7 +104,6 @@
 	<string>Unittest</string>
 	<key>ordering</key>
 	<array>
-		<string>BD374F9A-DF45-4E98-97AE-5955E3E13E50</string>
 		<string>8970375C-102D-47CF-82A9-DC51DF3C1A5F</string>
 		<string>29A68643-C03A-4E35-A0EF-9BFA685D300E</string>
 		<string>057A8D3A-C8FC-43A7-A03D-3CD82BB3E1B9</string>

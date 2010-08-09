@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>def test_${1:fname}(self):
+    """${2:docstring}"""
+    ${0}</string>
+	<key>name</key>
+	<string>def test_</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>deft</string>
+	<key>uuid</key>
+	<string>1A46E110-85B6-4C66-BA7E-4E655AF3EB44</string>
+</dict>
+</plist>
